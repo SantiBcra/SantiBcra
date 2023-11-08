@@ -11,11 +11,11 @@ const aboutMe = {
       },
       backEnd: {
          
-         js: ["Node", "Express"],
+         js: ["NodeJs", "Express","sequelize"],
          
        
       },
-      databases: ["Postgre"],
+      databases: ["PostgreSQL"],
      
    },
    currentOccupation: ["last month student, open for job opportunities"],
